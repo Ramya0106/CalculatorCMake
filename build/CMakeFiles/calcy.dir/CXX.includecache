@@ -6,13 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/Main.cpp
-iostream
--
-Calcy.h
--
-stdlib.h
--
-
-include/Calcy.h
-

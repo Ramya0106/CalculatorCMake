@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/calculator.dir/Main.cpp.o  -o calculator  -Wl,-rpath,/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/build libcalcy.so 

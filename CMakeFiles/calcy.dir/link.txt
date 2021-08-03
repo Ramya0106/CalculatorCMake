@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcalcy.a  CMakeFiles/calcy.dir/src/Calcy.cpp.o
-/usr/bin/ranlib libcalcy.a

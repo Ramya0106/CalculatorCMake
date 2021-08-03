@@ -4,13 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/src/Calcy.cpp" "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/CMakeFiles/calcy.dir/src/Calcy.cpp.o"
+  "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/src/Calcy.cpp" "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/build/CMakeFiles/calcy.dir/src/Calcy.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "calcy_EXPORTS"
+  )
+
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "include"
+  "../include"
   )
 
 # Targets to which this target links.

@@ -1,5 +1,4 @@
 #include"Calcy.h"
-#include<iostream>
 
 void Calcy::add(int x, int y){
 	int z = x + y;

@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
