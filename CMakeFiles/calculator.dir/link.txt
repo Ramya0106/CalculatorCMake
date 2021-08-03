@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/calculator.dir/Main.cpp.o  -o calculator  libcalcy.a 

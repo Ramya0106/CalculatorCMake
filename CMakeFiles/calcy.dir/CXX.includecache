@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/src/Calcy.cpp
+Calcy.h
+/home/ramya/Documents/ConnectedVehicle/Cmake/Calculator/src/Calcy.h
+iostream
+-
+
+include/Calcy.h
+
